@@ -1,4 +1,4 @@
-# Exercício : 01
+# Exercício
 
   1 - Crie um script chamado name.py
 

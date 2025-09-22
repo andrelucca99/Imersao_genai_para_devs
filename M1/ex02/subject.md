@@ -1,4 +1,4 @@
-# Exercício : 02
+# Exercício
 
 Utilizando apenas duas variáveis, a e b, alcance a saída esperada:
 
