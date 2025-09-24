@@ -1,0 +1,33 @@
+1. Passo a passo para obter uma chave de API (Google AI Studio – Gemini):
+
+Acesse https://aistudio.google.com
+.
+
+Clique em Get API Key (ou Obter chave da API).
+
+Escolha Create API key in new project.
+
+Copie a chave gerada (formato AIza...).
+
+Guarde a chave em um arquivo .env ou no gerenciador de segredos do seu sistema.
+
+2. Alguns modelos de LLM suportados pelo provedor, e seus rate limits:
+
+gemini-1.5-flash → rápido, otimizado para custo-benefício.
+
+gemini-1.5-pro → mais poderoso, para tarefas complexas.
+
+gemini-1.0-pro → modelo estável anterior.
+
+Rate limits (free tier aproximado):
+
+Até 60 requisições por minuto.
+
+Até 1.500.000 tokens por dia (pode variar por região/conta).
+
+Fonte: https://ai.google.dev/pricing
+
+3. URL da documentação da API e exemplo de uso:
+
+Documentação oficial:
+👉 https://ai.google.dev/docs
